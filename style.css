@@ -1,0 +1,22 @@
+.main_div{
+    background-color:#D6FFE7
+}
+.content{
+    margin:0 auto;
+}
+.header_h2{
+    text-align: center;
+    color:#EB008C;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width:100px;
+    height:100px;
+    margin: 0 auto;
+}
+
+
